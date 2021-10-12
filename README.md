@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello there! 👋
+<img align="right" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="250px" alt="Since the media didn't load, just imagine me typing in a frenzy">
+Hello world! I am Pratyush Kumar, a developer and electronics undergrad at NIT Kurukshetra. I like writing programs for other programmers and making tools that solve problems while exploiting text user interfaces. Apart from that, I also like automating tasks on my computer and exploring new fields in electronics and programming.
 
-<!--
-**PK-cod3ch3mist/PK-cod3ch3mist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I am not smashing my keyboard, you may find me reading a book, playing chess, or watching a superhero flick.
 
-Here are some ideas to get you started:
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-yellow.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-blue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I'm currently working on ...
+- Building a small testing library that can parse and import data from spreadsheets
+- Making a video player (with subtitle support 😱) for the terminal, using ASCII characters
+
+### 🌱 I'm currently learning ...
+Anything I can get my hands on! 😁
+
+### 📬 Reach me on ...
+<a href="mailto:pratyushkumartheking@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pratyush-kumar-alpha01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+### 📊 My GitHub stats ...
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true&theme=buefy)
