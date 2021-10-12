@@ -1,6 +1,6 @@
 ## Hello there! 👋
 <img align="right" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="200px" alt="Since the media didn't load, just imagine me typing in a frenzy">
-Hello world! I am Pratyush Kumar, a developer and electronics undergrad at NIT Kurukshetra. I like writing programs for other programmers and making tools that solve problems while exploiting text user interfaces. Apart from that, I also like automating tasks on my computer and exploring new fields in electronics and programming.
+I am Pratyush Kumar, a developer and electronics undergrad at NIT Kurukshetra. I like writing programs for other programmers and making tools that solve problems while exploiting text user interfaces. Apart from that, I also like automating tasks on my computer and exploring new fields in electronics and programming.
 
 When I am not smashing my keyboard, you may find me reading a book, playing chess, or watching a superhero flick.
 
