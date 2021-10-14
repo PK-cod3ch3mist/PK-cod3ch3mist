@@ -25,4 +25,4 @@ Anything I can get my hands on! 😁
 <a href="https://www.linkedin.com/in/pratyush-kumar-alpha01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 📊 My GitHub stats ...
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true&theme=buefy)
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true)
