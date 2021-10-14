@@ -10,6 +10,7 @@ When I am not smashing my keyboard, you may find me reading a book, playing ches
   <img alt="JavaScript" src="https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-yellow.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-blue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </p>
 
 ### 🔭 I'm currently working on ...
