@@ -24,6 +24,6 @@ Anything I can get my hands on! 😁
 <a href="mailto:pratyushkumar23@outlook.com"><img alt="Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pratyush-kumar-alpha01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://dev.to/pratyushkumar"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
-<a href="assets/SDE Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://pk-cod3ch3mist.github.io/assets/SDE%20Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 ### 📊 My GitHub stats ...
 ![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true&theme=swift)
