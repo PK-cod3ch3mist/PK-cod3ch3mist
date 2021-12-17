@@ -27,3 +27,5 @@ Anything I can get my hands on! 😁
 <a href="https://pk-cod3ch3mist.github.io/assets/SDE%20Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 ### 📊 My GitHub stats ...
 ![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true&theme=swift)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pk-cod3ch3mist&style=flat-square)
