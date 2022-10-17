@@ -20,7 +20,7 @@ When I am not smashing my keyboard, you may find me reading a book, playing ches
 <a href="https://drive.google.com/file/d/1pCl24alvfAJ7hhvtYalTTi93PO3vtHxE/view"><img alt="Resume" src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 ### 📊 My GitHub stats ...
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true&theme=swift)
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-cod3ch3mist&show_icons=true&theme=transparent)
 
 ### 📜 My Holopin board ...
 [![@thesparkyhut's Holopin board](https://holopin.me/thesparkyhut)](https://holopin.io/@thesparkyhut)
